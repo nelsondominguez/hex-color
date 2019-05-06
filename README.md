@@ -1,3 +1,3 @@
 # hex-color
 extra credit
-<p>https://nelsondominguez.github.io/hex-color/</p>
+<p>https://hex-color.jrqazwsx.com/</p>
