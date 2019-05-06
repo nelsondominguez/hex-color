@@ -1,0 +1,4 @@
+AuthUserFile "/services/users/zstorage23p1/nd55343/www/hex-color.jrqazwsx.com/.htaclu"
+AuthName Members
+AuthType Basic
+Require valid-user
